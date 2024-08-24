@@ -14,5 +14,5 @@ def hello_hbnb():
 
 
 if __name__ == "__main__":
-    """Ensure the script directly"""
+    #ensure the script runs directly
     app.run(host="0.0.0.0", port=5000)
